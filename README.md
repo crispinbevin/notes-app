@@ -1,12 +1,22 @@
-# React + Vite
+# 📝 Notes App (WIP)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple full-stack Notes app built with **React.js**, **Supabase**, and **Tailwind CSS** — currently supports login and basic homepage UI. Design inspired by NOTHING. The dot matrix and the red theme.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React (JavaScript)
+- Supabase (Auth + Database)
+- Tailwind CSS
+- React Router
 
-## Expanding the ESLint configuration
+## ✅ Features so far
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Magic Link Email Login via Supabase
+- Protected route for homepage after login
+- Logout functionality with session handling
+
+  
+- <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/14df7bc4-51dc-4a1d-9605-97ed825b17b0" />
+
+
+- <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/5fff491b-bd86-4af5-9483-a165711bd01f" />
